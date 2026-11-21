@@ -1,0 +1,20 @@
+# secrets
+.env
+*.pem
+*.ppk
+terraform.tfvars
+
+# python
+venv/
+__pycache__/
+.pytest_cache/
+
+# generated output
+results.csv
+output/
+run.log
+
+# terraform
+.terraform/
+*.tfstate
+*.tfstate.*

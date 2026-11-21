@@ -1,0 +1,7 @@
+# Copy to terraform.tfvars and change if needed
+region        = "ap-south-1"
+project       = "shipit"
+instance_type = "t3.medium"
+
+# Safer: only your IP can SSH in. Find it at https://checkip.amazonaws.com
+# allowed_cidr = "49.37.10.20/32"

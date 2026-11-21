@@ -1,0 +1,12 @@
+[
+  {"id": 1, "email": "I ordered a laptop five days ago. The tracking page still says not dispatched. Please help."},
+  {"id": 2, "email": "I ordered a laptop bag but received a mobile cover. I want a refund."},
+  {"id": 3, "email": "My bank account was charged but the order confirmation says payment failed."},
+  {"id": 4, "email": "The headphones I received are damaged. The left side is not working."},
+  {"id": 5, "email": "I want to cancel my order because I accidentally selected the wrong size."},
+  {"id": 6, "email": "The delivery agent marked my package delivered, but I have not received it."},
+  {"id": 7, "email": "I received two products instead of the three products I purchased."},
+  {"id": 8, "email": "I was charged twice for the same order. Please investigate."},
+  {"id": 9, "email": "Paisa kat gaya but order nahi aaya"},
+  {"id": 10, "email": "I do NOT want a refund, I want a replacement."}
+]
